@@ -13,7 +13,7 @@
 <br>
 
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=angular,cs,dotnet,mysql" />
+   <img src="https://skillicons.dev/icons?i=java,angular,spring,aws,rabbitmq" />
 </div>
 
 ###
