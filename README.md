@@ -4,7 +4,7 @@
 ###
 
 - :mortar_board: Computer Science student at [Federal University of ABC](https://www.ufabc.edu.br/).
-- :brain: .Net | Angular | SQL Server
+- :brain: Java | Spring | PostgreSQL
 - :mailbox: guilhermeperondi09@gmail.com
 - :computer: https://racionalvol1.github.io/Portifolio/
 
