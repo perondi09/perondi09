@@ -9,11 +9,7 @@
 
 #   Sobre mim
 
-Estudante de Ciência da Computação construindo projetos, explorando conceitos e colocando ideias em prática através do código.
-
-- :mortar_board: Computer Science student at [Federal University of ABC](https://www.ufabc.edu.br/).
-- :brain: Java | Spring | PostgreSQL
-- :mailbox: guilhermeperondi09@gmail.com
+Estudante de Ciência da Computação pela [Federal University of ABC](https://www.ufabc.edu.br/). construindo projetos, explorando conceitos e colocando ideias em prática através do código.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=perondi09&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -25,7 +21,10 @@ Estudante de Ciência da Computação construindo projetos, explorando conceitos
 
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-perondi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />    
+  </a> 
+  <a href="guilhermeperondi09@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"  />    
   </a> 
 </div>
 
@@ -35,11 +34,45 @@ Estudante de Ciência da Computação construindo projetos, explorando conceitos
 
 #   Tecnologias & Ferramentas
 
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=java,angular,spring,aws,rabbitmq,docker,postgresql" />
-
+<p style="display: inline-block;" align="center">
+   <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>   
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />    
+  </kbd>
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
+    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Outros</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+  </kbd>
+  <br> 
 </div>
+
 
 ---
 
